@@ -47,7 +47,7 @@ python --version
 If this project is uploaded to GitHub, clone it using:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone (https://github.com/yogibhokare18/YogiBank-ATM-Simulation.git)
 ```
 
 Alternatively, download the project and open its folder in VS Code.
